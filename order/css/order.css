@@ -1,11 +1,24 @@
 .menu_group{
     border: #fcc106 1px solid;
-    width: 168px;
-    height: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
     color: #4d4845;
+    font-size: small;
+    align-content: center;
+    border-radius: 60px;
+
 
 }
 
-.menu_group_bg{
-    border-radius: 60px;    
+.menu_list{
+    width: 500%;
+    height: 150px;
+    border: #4d4845 1px solid;
+    margin-left: 20px;
+    border-radius: 10px;
+
 }
+
+
+
